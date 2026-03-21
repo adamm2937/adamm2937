@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Adam Mougharbel
 
-Cybersecurity Student | IT & Security Intern @ Swatch Group  
+Cybersecurity | IT student 
 
-I am a Computer Science student at Université Paris-Saclay, focusing on cybersecurity, threat detection, and system security. I have hands-on experience in log analysis, vulnerability assessment, and security operations in enterprise environments.
+I am a Computer Science student at Université Paris-Saclay, focusing on cybersecurity, threat detection, threat modeling and system security. I have hands-on experience in log analysis, vulnerability assessment, and security operations in enterprise environments.
 
 ---
 
