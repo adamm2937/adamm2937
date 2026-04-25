@@ -44,13 +44,9 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 - Conducted vulnerability assessments in controlled environments using Nmap and OpenVAS  
 - Identified and prioritized risks using CVSS scoring with remediation recommendations  
 
----
-
 ### 🔎 [Brute Force Detection](https://github.com/adamm2937/BruteForce-Detection)
 - Developed a Python-based tool to detect brute force attacks using authentication logs  
 - Implemented pattern recognition and threshold-based alerting inspired by SOC practices  
-
----
 
 ### 🤖 [Cyber-AI Detection tool](https://github.com/adamm2937/Cyber-Notebook)
 - Security-focused notebooks exploring network analysis and cybersecurity concepts  
