@@ -58,11 +58,6 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 - Monitoring system performance and resolving incidents to minimize downtime
 ---
 
-## 📊 GitHub Stats
-
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamm2937&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamm2937&layout=compact&theme=radical)
----
 
 ## 📫 Connect with Me
 
