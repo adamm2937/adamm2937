@@ -19,6 +19,14 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 
 ## ⭐ Featured Projects
 
+### 🛡️ [SIEM-Lite — Threat Detection Platform](https://github.com/adamm2937/siem-lite)
+- Built a full threat detection pipeline: log ingestion, real-time correlation, alerting, and live dashboard
+- Implemented 9 detection rules mapped to MITRE ATT&CK tactics (T1110, T1078, T1548, T1595...)
+- Multi-source log parsing (auth, nginx, syslog), sliding-window event correlation, and SQLite persistence
+- Configurable alerting via Slack, email, and webhooks — deployable in one command with Docker
+  
+---
+
 ### 🔎 [Brute Force Detection](https://github.com/adamm2937/BruteForce-Detection)
 - Developed a Python-based tool to detect brute force attacks using authentication logs  
 - Implemented pattern recognition and threshold-based alerting inspired by SOC practices  
