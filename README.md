@@ -26,7 +26,7 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 - Configurable alerting via Slack, email, and webhooks — deployable in one command with Docker
   
 ---
-### 🛡️ [Scanning For Vulnerabilities](https://github.com/adamm2937/ScanningForVulnerabilities)
+### 🛡️ [Scanning For Vulnerabilities Lab](https://github.com/adamm2937/ScanningForVulnerabilities)
 - Conducted vulnerability assessments in controlled environments using Nmap and OpenVAS  
 - Identified and prioritized risks using CVSS scoring with remediation recommendations  
 
