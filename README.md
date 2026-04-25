@@ -39,7 +39,7 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 
 ## 💼 Experience
 
-### 🏢 IT & Cybersecurity Intern — Swatch Group (Longines)
+### 🏢 IT & Systems security — Swatch Group (Longines)
 - Gestion des accès utilisateurs (IAM) en environnement Active Directory (moindre privilège)
 - Analyse de logs via outils centralisés pour détection et investigation d’incidents (OS, réseau)
 - Traitement d’alertes, analyse et qualification des incidents, réponse SOC et support aux équipes IT
