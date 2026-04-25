@@ -39,7 +39,6 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 - Enriches every attacker IP with geolocation, ASN detection, and a 0-100 threat score
 - Live dashboard shows attacker profiles, geo origins, and MITRE-style event classification
   
----
 ### 🛡️ [Scanning For Vulnerabilities Lab](https://github.com/adamm2937/ScanningForVulnerabilities)
 - Conducted vulnerability assessments in controlled environments using Nmap and OpenVAS  
 - Identified and prioritized risks using CVSS scoring with remediation recommendations  
