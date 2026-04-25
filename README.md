@@ -55,13 +55,13 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 
 ## 💼 Experience
 
-### 🏢 IT & Systems security — Swatch Group (Longines)
+### 🏢 IT & Systems security - Internship - Swatch Group (Longines)
 - User access management (IAM) in an Active Directory environment (principle of least privilege)
 - Log analysis using centralized tools for incident detection and investigation (OS, network)
 - Handling alerts, analyzing and qualifying incidents, SOC response, and support to IT teams
 - Deployment of patches to remediate vulnerabilities and reduce the attack surface
 
-### 🏫 Part-Time IT Assistant — Lycée Français International de Djeddah
+### 🏫 IT Assistant - Part Time - Lycée Français International de Djeddah
 - Maintenance and optimization of computer workstations in the library
 - Installation and maintenance of antivirus software across all machines
 - Monitoring system performance and resolving incidents to minimize downtime
