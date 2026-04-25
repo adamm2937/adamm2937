@@ -16,6 +16,14 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 | Concepts           | Log Analysis, Vulnerability Assessment, Threat Detection, ISO27001 |
 
 ---
+## 🎓 Certifications
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| Junior Cybersecurity Analyst | Cisco | ✅ Completed |
+| Google Cybersecurity Certificate | Google | ✅ Completed |
+| SOC Level 1 | TryHackMe | ✅ Completed |
+| CompTIA Security+ | CompTIA | 🔄 In Progress |
+---
 
 ## ⭐ Featured Projects
 
