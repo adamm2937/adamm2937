@@ -10,10 +10,10 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 
 | Category            | Tools & Technologies |
 |--------------------|---------------------|
-| Security           | Nmap, Wireshark, OpenVAS, CVSS |
-| Systems & Network  | Linux, Windows, TCP/IP, DNS, Bash, iptables |
-| Programming        | Python, C, C++, Java, SQL |
-| Concepts           | Log Analysis, Vulnerability Assessment, Threat Detection |
+| Security           | Nmap, Wireshark, OpenVAS, CVSS, SIEM, Vm, Microsoft Security |
+| Systems & Network  | Linux, Windows, TCP/IP, DNS, Bash, iptables, AD |
+| Programming        | Python, C, C++, Java, SQL, Gitlab, Docker |
+| Concepts           | Log Analysis, Vulnerability Assessment, Threat Detection, ISO27001 |
 
 ---
 
