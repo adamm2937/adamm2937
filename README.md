@@ -40,15 +40,15 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 ## 💼 Experience
 
 ### 🏢 IT & Systems security — Swatch Group (Longines)
-- Gestion des accès utilisateurs (IAM) en environnement Active Directory (moindre privilège)
-- Analyse de logs via outils centralisés pour détection et investigation d’incidents (OS, réseau)
-- Traitement d’alertes, analyse et qualification des incidents, réponse SOC et support aux équipes IT
-- Déploiement de correctifs pour remédiation des vulnérabilités et réduction de la surface d’attaque 
+- User access management (IAM) in an Active Directory environment (principle of least privilege)
+- Log analysis using centralized tools for incident detection and investigation (OS, network)
+- Handling alerts, analyzing and qualifying incidents, SOC response, and support to IT teams
+- Deployment of patches to remediate vulnerabilities and reduce the attack surface
 
 ### 🏫 Part-Time IT Assistant — Lycée Français International de Djeddah
-- Maintenance et optimisation des postes informatiques de la bibliothèque
-- Installation et maintenance de logiciels antivirus sur l’ensemble des machines.
-- Surveillance des performances systèmes et résolution d’incidents afin de limiter les interruptions.
+- Maintenance and optimization of computer workstations in the library
+- Installation and maintenance of antivirus software across all machines
+- Monitoring system performance and resolving incidents to minimize downtime
 ---
 
 ## 📊 GitHub Stats
