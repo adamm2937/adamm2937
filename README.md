@@ -33,7 +33,7 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 - Multi-source log parsing (auth, nginx, syslog), sliding-window event correlation, and SQLite persistence
 - Configurable alerting via Slack, email, and webhooks - deployable in one command with Docker
 
-### 🍯 [HoneyNet - Attacker Intelligence Platform](https://github.com/adamm2937/honeynet)
+### 🍯 [HoneyNet - Attacker Intelligence Platform](https://github.com/adamm2937/honeypot)
 - Built a multi-trap honeypot system with fake SSH, HTTP admin panel, and 8 TCP service decoys
 - Captures attacker credentials, injection attempts, and scanner fingerprints in real time
 - Enriches every attacker IP with geolocation, ASN detection, and a 0-100 threat score
