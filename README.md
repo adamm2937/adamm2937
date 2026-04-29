@@ -23,6 +23,7 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 | Google Cybersecurity Certificate | Google | ✅ Completed |
 | SOC Level 1 | TryHackMe | ✅ Completed |
 | CompTIA Security+ | CompTIA | 🔄 In Progress |
+| Microsoft AZ-900 | Microsoft| 🔄 In Progress |
 ---
 
 ## ⭐ Featured Projects
