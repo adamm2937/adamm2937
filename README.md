@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adam Mougharbel
 
-## 🌐 [🚀 Visit My Portfolio](https://adamm2937.github.io)
+## 🌐 [ Visit My Portfolio](https://adamm2937.github.io)
 
 Cybersecurity | IT student 
 
