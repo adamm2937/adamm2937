@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Adam Mougharbel
 
-## 🌐 [ Visit My Portfolio](https://adamm2937.github.io)
-
 Cybersecurity | IT student 
 
 I am a Computer Science student at Université Paris-Saclay, focusing on cybersecurity, threat detection, threat modeling, system security and digital forensics. I have hands-on experience in log analysis, vulnerability assessment, and security operations in enterprise environments.
 
+## 🌐 [ Visit My Portfolio](https://adamm2937.github.io)
 ---
 
 ## 🛠️ Tech Stack
