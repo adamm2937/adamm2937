@@ -22,8 +22,8 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 | Junior Cybersecurity Analyst | Cisco | ✅ Completed |
 | Google Cybersecurity Certificate | Google | ✅ Completed |
 | SOC Level 1 | TryHackMe | ✅ Completed |
+| Microsoft AZ-900 | Microsoft| ✅ Completed |
 | CompTIA Security+ | CompTIA | 🔄 In Progress |
-| Microsoft AZ-900 | Microsoft| 🔄 In Progress |
 ---
 
 ## ⭐ Featured Projects
