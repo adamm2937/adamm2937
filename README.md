@@ -56,13 +56,13 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 
 ## 💼 Experience
 
-### 🏢 Cybersecurity Analyst | Internship | Siemens
+### 🏢 Cybersecurity Analyst | Internship | Siemens | Berlin,Germany
 - Monitored information systems via SIEMS, analyzed and qualified alerts.
 - Investigated incidents and escalated SOC cases by criticality.
 - Conducted vulnerability scans across IT/OT environments and prioritised risks accordingly.
 - Participated in compliance audits, tracked vulnerability remediation, and produced technical documentation.
 
-### 🏢 IT & Systems security | Internship | Swatch Group (Longines)
+### 🏢 IT & Systems security | Internship | Swatch Group (Longines) | Geneva, Switzerland
 - User access management (IAM) in an Active Directory environment (principle of least privilege)
 - Log analysis using centralized tools for incident detection and investigation (OS, network)
 - Handling alerts, analyzing and qualifying incidents, SOC response, and support to IT teams
