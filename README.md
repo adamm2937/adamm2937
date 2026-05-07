@@ -57,6 +57,11 @@ I am a Computer Science student at Université Paris-Saclay, focusing on cyberse
 
 ## 💼 Experience
 
+### 🏢 Security Researcher - Bug bounty| Permanent| HackerOne | Paris, France (Remote) 
+- Researching web application Vulnerabilities through Bug bounty programs. 
+- Focused on identifying and responsibly disclosing security issues including XSS, IDOR, SQL injection, and access control flaws. 
+- Developing skills in manual testing, Burp suite, and recon methodologies. 
+  
 ### 🏢 Cybersecurity Analyst | Internship | Siemens | Berlin,Germany
 - Monitored information systems via SIEMS, analyzed and qualified alerts.
 - Investigated incidents and escalated SOC cases by criticality.
